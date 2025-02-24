@@ -10,8 +10,8 @@ Báo cáo này được thực hiện bởi nhóm sinh viên từ **Trường Đ
 - **Bùi Trương Thái Sơn**  
 - **Nguyễn Hoàng Long**  
 
-Mục tiêu của báo cáo là giúp mọi người hiểu rõ hơn về **mô hình Black-Scholes**, một công cụ toán học quan trọng trong tài chính giúp định giá quyền chọn. Nhóm đi sâu vào các nền tảng toán học của mô hình như **Chuyển động Brownian, Bổ đề Ito, Phương trình vi phân ngẫu nhiên (SDE)** để giúp người đọc có cái nhìn tổng quan và logic hơn về công thức Black-Scholes.  
-Dưới đây chỉ là tóm tắt, để làm rõ cơ sở toán học, tham khảo bản PDF báo cáo của chúng tôi.
+Mục tiêu của báo cáo là giúp mọi người hiểu rõ hơn về **mô hình Black-Scholes**, một công cụ toán học quan trọng trong tài chính giúp định giá quyền chọn. Nhóm đi sâu vào các nền tảng toán học của mô hình như **Chuyển động Brownian, Bổ đề Ito, Phương trình vi phân ngẫu nhiên (SDE)** để giúp người đọc có cái nhìn tổng quan và logic hơn về công thức Black-Scholes. Dưới đây chỉ là tóm tắt, để làm rõ cơ sở toán học, tham khảo bản PDF báo cáo của chúng tôi.
+
 ---
 
 ## 📖 Nội dung chính  
